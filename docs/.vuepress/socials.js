@@ -3,7 +3,7 @@ module.exports = {
     socials: [
         {
             //社交链接
-            aHref: "tencent://message/?uin=2291308094",
+            aHref: "tencent://message/?uin=172781612",
             // imgSrc: "/img/ico/qq.svg", 从v1.3.2开始久移除次配置，以前版本用于社交ico图标配置
 
             //true为在首页显示，反之
@@ -31,35 +31,29 @@ module.exports = {
             sidebar: true
         },
         {
-            aHref: "https://github.com/qsyyke/",
+            aHref: "https://github.com/lanjiangyu/blog.git",
             isHome: true,
             show: true,
             sidebar: true,
             symbol: '#icon-github-fill'
         },
+
         {
-            aHref: "https://stackoverflow.com/",
-            isHome: true,
-            show: true,
-            symbol: '#icon-stackoverflow',
-            sidebar: true
-        },
-        {
-            aHref: "https://space.bilibili.com/483962286",
+            aHref: "https://space.bilibili.com/480620037?spm_id_from=333.1007.0.0",
             isHome: true,
             show: true,
             sidebar: true,
             symbol: '#icon-bilibili-1'
         },
         {
-            aHref: "https://music.163.com/#/user/home?id=1411050784",
+            aHref: "https://music.163.com/#/user/home?id=1727861612",
             isHome: true,
             show: true,
             symbol: '#icon-wangyiyunyinle',
             sidebar: true
         },
         {
-            aHref: "mailto:2291308094@qq.com",
+            aHref: "mailto:1727861612@qq.com",
             isHome: true,
             show: true,
             sidebar: true,

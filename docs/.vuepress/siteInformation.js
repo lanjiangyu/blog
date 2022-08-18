@@ -15,7 +15,7 @@ module.exports = {
         cover: '/my-cover.png',
 
         //自己的头像
-        contact: "email: cqycco@gmail.com, qq:2291308094",
+        contact: "email: cqycco@gmail.com, qq:1727861612",
         otherDescribe: [
             '申请友链请按照下面格式，在此页面留言，我看到就会进行添加',
             '博客名称    博客地址      博客描述      博客logo',

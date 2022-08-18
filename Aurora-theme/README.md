@@ -1,5 +1,4 @@
-- [动漫Demo](https://aurora-animate.xcye.xyz/)
-- [非动漫Demo](https://aurora-common.xcye.xyz/)
+
 - [文档](https://aurora.xcye.xyz/)
 
 
